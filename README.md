@@ -22,8 +22,6 @@ Web'in sadece görünen yüzünü (frontend) değil, aynı zamanda arka plandaki
 ---
 
 
----
-
 ### 📈 GitHub İstatistiklerim
 
 <p align="center">
