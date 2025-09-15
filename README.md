@@ -21,13 +21,14 @@ Web'in sadece görünen yüzünü (frontend) değil, aynı zamanda arka plandaki
 
 ---
 
+
 ---
+
 ### 📈 GitHub İstatistiklerim
 
 <p align="center">
   <img src="https://github.com/zeynepdemirbass23-blip/zeynepdemirbass23-blip/raw/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </p>
-
 ### 💬 İletişim
 
 * **LinkedIn:** (https://www.linkedin.com/in/zeynep-zeynep-153b57384/)
